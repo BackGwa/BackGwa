@@ -26,7 +26,7 @@ printf("Hello, everyone!");
 <br>
 
 <p align="center"><a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=backgwa&count_private=true&show_icons=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backgwa&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=backgwa&count_private=true&show_icons=true">
 </a></p>
 
 <br>
