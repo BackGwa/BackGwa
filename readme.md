@@ -15,12 +15,18 @@ printf("Hello, everyone!");
 ```
 <br>
 
-## <p align='center'><i>**Tech Stacks**</i><br></p>
+---
+
+<p align='center'><i><b>Tech Stacks</b></i><br></p>
 
 <p align='center'>
 <img src="https://img.shields.io/badge/clang-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"><br><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</p><br>
+</p>
 
-## <p align='center'><i>**Tool Stacks**</i><br></p>
+---
+
+<p align='center'><i><b>Tool Stacks</b></i><br></p>
 <p align='center'>
 <img src="https://img.shields.io/badge/vs2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/vsc-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"><br><img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+---
