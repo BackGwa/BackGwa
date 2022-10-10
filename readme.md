@@ -25,7 +25,7 @@ print('Hello, everyone!')
 
 ---
 
-<br>
+### <p align="center">📖 <b>GitHub Stat</b> 📖</p>
 
 <p align="center"><a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=backgwa&count_private=true&show_icons=true">
