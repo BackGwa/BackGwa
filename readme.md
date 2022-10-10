@@ -1,7 +1,7 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,2,2,2,15&height=300&section=header&text=Hello,%20everyone!&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=300&section=header&text=Hello,%20everyone!&fontSize=75)
 
 <br>
 
