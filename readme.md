@@ -5,12 +5,12 @@
 
 <br>
 
-```c
+```py
 
-printf("Hello, everyone!");
+print('Hello, everyone!')
 
-// 취미로 다양한 프로젝트를 제작하는 'BackGwa' 입니다.
-// My name is 'BackGwa' who makes various projects as a hobby.
+# 취미로 다양한 프로젝트를 제작하는 'BackGwa' 입니다.
+# My name is 'BackGwa' who makes various projects as a hobby.
 
 ```
 <br>
