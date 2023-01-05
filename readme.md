@@ -1,20 +1,20 @@
 
 <br>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=300&section=header&text=Hello,%20everyone!&fontSize=75)
-
+<p align="center">
+    <img src="image.png" width="700">
+</p>
 <br>
 
 ```javascript
 
-function greeting(name){
-    console.log(`Hello, ${name}`);
+/** 취미로 다양한 프로젝트를 제작하는 'BackGwa' 입니다.
+ * My name is 'BackGwa' who makes various projects as a hobby. */
+
+function greeting(UserID){
+    console.log(`Hello, ${UserID}`);
 }
 
 greeting('everyone!');
-
-/* 취미로 다양한 프로젝트를 제작하는 'BackGwa' 입니다.
-My name is 'BackGwa' who makes various projects as a hobby. */
 
 ```
 <br>
