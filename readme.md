@@ -5,12 +5,16 @@
 
 <br>
 
-```py
+```javascript
 
-print('Hello, everyone!')
+function greeting(name){
+    console.log('Hello, ${name}');
+}
 
-# 취미로 다양한 프로젝트를 제작하는 'BackGwa' 입니다.
-# My name is 'BackGwa' who makes various projects as a hobby.
+greeting('everyone!');
+
+/* 취미로 다양한 프로젝트를 제작하는 'BackGwa' 입니다.
+My name is 'BackGwa' who makes various projects as a hobby. */
 
 ```
 <br>
