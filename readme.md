@@ -28,21 +28,21 @@ greeting('everyone!');
 </p><p align="center"> <img src="https://img.shields.io/badge/vs2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/vsc-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"><br><img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 ---
-<!--
+
 ### <p align="center">📖 <b>GitHub Stat</b> 📖</p>
 
 <p align="center">
-    <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=backgwa&count_private=true&show_icons=true&theme=dracula"></a>
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=BackGwa&count_private=true&show_icons=true&theme=dracula"></a>
 </p>
 
 <br>
 
 <p align="center">
-    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backgwa&layout=compact&theme=dracula"></a>
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackGwa&layout=compact&theme=dracula"></a>
 </p>
 
 <br>
 
 ---
--->
+
 <br>
