@@ -37,7 +37,7 @@ greeting('everyone!');
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=BackGwa&count_private=true&show_icons=true&theme=dracula"></a>
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackGwa&layout=compact&theme=dracula"></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackGwa&theme=dracula"></a>
 
 <br>
 
