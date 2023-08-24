@@ -15,6 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITTOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: conf/custom.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
