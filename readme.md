@@ -1,4 +1,6 @@
 
+<br>
+
 ```javascript
 
 /** 다양한 프로젝트를 만드는 `BackGwa` 입니다!
@@ -12,7 +14,13 @@ greeting('everyone!');
 
 ```
 
+<br>
+
 ---
+
+<br>
+
+<div align="center">
 
 ### 🔧 <b>Tech Stack</b> 🔧
 
@@ -22,6 +30,10 @@ greeting('everyone!');
 
 <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
+</div><br>
+
 ---
+
+<br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
