@@ -18,8 +18,8 @@ jobs:
           SETTING_JSON: conf/github-profile-3d-contrib.json
       - name: Commit & Push
         run: |
-          git config user-name github-actions
-          git config user-email github-actions@github.com
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
           git push
