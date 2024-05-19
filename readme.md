@@ -16,8 +16,13 @@ greeting('everyone!');
 
 <div align="center">
 
+<!--
 |![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=static_backgwa)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackGwa&layout=compact&theme=onedark)|
 |:-:|:-:|
+-->
+
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackGwa&layout=compact&theme=onedark)|
+|:-:|
 
 </div>
 
