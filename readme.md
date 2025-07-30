@@ -1,5 +1,5 @@
 <!-- 대표 이미지 -->
-<!-- 추후 삽입 -->
+<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/ed3bcd7d-b94d-439c-acdd-9cb92224be45" />
 
 <!-- 깃허브 메트릭 -->
 <img align="right" width="400" src="./attachments/metrics.svg">
