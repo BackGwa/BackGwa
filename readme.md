@@ -2,7 +2,7 @@
 <!-- 추후 삽입 -->
 
 <!-- 깃허브 메트릭 -->
-<!-- 추후 삽입 -->
+<img align="right" width="400" src="./attachments/metrics.svg">
 
 <!-- 인삿말 -->
 ### 👋 모두 반가워요,
