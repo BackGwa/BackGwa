@@ -24,8 +24,12 @@
 <span title="기본적인 프로그래밍부터 IoT/AI와 더불어 하드웨어를 다루고 설계까지 배울 수 있어, 진짜 마이스터가 될 수 있는 학교였어요.">🎓 **아산스마트팩토리마이스터고**, 스마트팩토리과 <i>2022 - 2025</i></span>  
 <br><!-- 📖 제가 궁금해지셨다면, [이 곳]()을 눌러보세요! -->
 
+<div align="center">
+
 [![포트폴리오 페이지](https://img.shields.io/badge/Portfolio-backgwa.kro.kr-white?style=flat)](https://backgwa.kro.kr)
 [![GitHub 팔로워](https://img.shields.io/github/followers/backgwa?style=social)](https://github.com/backgwa)
 [![GitHub 스폰서](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-white?style=flat)](https://github.com/sponsors/backgwa)  
 [![Velog](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@backgwa)](https://velog.io/@backgwa)
 [![X (구 Twitter)](https://img.shields.io/twitter/follow/backgwa?style=social)](https://x.com/backgwa)
+
+</div>
