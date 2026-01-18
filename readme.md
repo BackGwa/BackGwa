@@ -23,7 +23,6 @@
 
 <div align="center">
 
-[![포트폴리오 페이지](https://img.shields.io/badge/Portfolio-backgwa.kro.kr-white?style=flat)](https://backgwa.kro.kr)
 [![GitHub 팔로워](https://img.shields.io/github/followers/backgwa?style=social)](https://github.com/backgwa)
 [![GitHub 스폰서](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-white?style=flat)](https://github.com/sponsors/backgwa)  
 [![Velog](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@backgwa)](https://velog.io/@backgwa)
