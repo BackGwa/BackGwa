@@ -28,4 +28,8 @@
 [![Velog](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@backgwa)](https://velog.io/@backgwa)
 [![X (구 Twitter)](https://img.shields.io/twitter/follow/backgwa?style=social)](https://x.com/backgwa)
 
+<br>
+
+![오늘의 코딩운세](https://raw.githubusercontent.com/backgwa/github-luck-clover/main/fortune.svg)
+
 </div>
