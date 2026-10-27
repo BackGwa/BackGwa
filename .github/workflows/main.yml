@@ -15,6 +15,7 @@ jobs:
         with:
           filename: attachments/metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          repositories_affiliations: owner, collaborator, organization_member
           base: header
           base_indepth: yes
           config_order: base.header, languages, isocalendar, achievements
